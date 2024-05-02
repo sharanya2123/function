@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.home{
+    display: flex;
+    justify-content: column;
+    flex-direction: center;
+    font-family: 'Roboto';
+}
